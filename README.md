@@ -46,7 +46,6 @@ CREATE TABLE data
 - **Record Count**: Determine the total number of records in the dataset.
 - **Product Count**: Find out how many unique Product Models are in the dataset.
 - **Model Count**: Identify all unique product categories in the dataset.
-- **Null Value Check**: Check for any null values in the dataset and delete records with missing data.
 
 ```sql
 -- Record Count
